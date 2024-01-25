@@ -1,27 +1,24 @@
+[![Twitter](https://img.shields.io/twitter/follow/HarshitMaurya_?label=Follow)](https://twitter.com/intent/follow?screen_name=vedants2003)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vedantsharma13/)](https://www.linkedin.com/in/vedantsharma13/)
+![GitHub](https://img.shields.io/github/followers/VedantSharma11?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=VedantSharma11&color=brightgreen"> 
+
 ![MasterHead](https://i.imgur.com/XUVPbFJ.png)
 <h1 align="center">Hi 👋, I'm Vedant Sharma</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vedantsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsharma11" /> </p>
 <h3 align="center">A passionate MERN stack developer with experience in both Frontend and Backend.</h3>
 
 ___
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/vedants2003" target="blank"><img src="https://img.shields.io/twitter/follow/vedants2003?logo=twitter&style=for-the-badge" alt="vedants2003" /></a> </p>
+## 👨🏻‍💻 &nbsp;About Me
+🎓 I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.💡Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. 🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
 
-- 🔭 I’m currently working on [JobHub](https://github.com/VedantSharma11/JobHub)
-
+- 👨‍💻 Check my portfolio at [https://hehe.com](https://hehe.com)
 - 🌱 I’m currently learning **Next.JS, Typescript and Agile**
-
-- 👨‍💻 All of my projects are available at [https://hehe.com](https://hehe.com)
-
 - 💬 Ask me about **React, Express, Node & MongoDB**
-
 - 📫 How to reach me **vedants2003@gmail.com**
-
 - 📄 Know about my experiences [https://hehe.com](https://hehe.com)
-
-<br>
 
 ***
 
@@ -40,8 +37,12 @@ ___
 
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsharma11&show_icons=true&locale=en&layout=compact" alt="vedantsharma11" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsharma11&show_icons=true&locale=en" alt="vedantsharma11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsharma11&" alt="vedantsharma11" /></p>
+<p align="left">
+<a href="https://github.com/VedantSharma11">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VedantSharma11&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VedantSharma11&layout=compact&langs_count=8&theme=gotham"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsharma11&" alt="vedantsharma11" />
+</a>
+</p>
