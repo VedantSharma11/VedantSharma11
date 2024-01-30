@@ -14,7 +14,7 @@ ___
 ## 👨🏻‍💻 &nbsp;About Me
 🎓 I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.💡Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. 🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
 
-- 👨‍💻 Check my portfolio at [https://hehe.com](https://hehe.com)
+- 👨‍💻 Check my portfolio at [https://hehe.com](https://vedantsharma11.github.io/portfolio/)
 - 🌱 I’m currently learning **Next.JS, Typescript and Agile**
 - 💬 Ask me about **React, Express, Node & MongoDB**
 - 📫 How to reach me **vedants2003@gmail.com**
